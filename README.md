@@ -3,9 +3,9 @@
 Пишу автотесты на Java: UI, API и мобильные. Ниже дипломные проекты курса QA.GURU
 
 | Проект | Что внутри |
-| --- | --- |
-| [AVIASALESDEGREE](https://github.com/H1ghOctane/AVIASALESDEGREE) | UI-тесты aviasales.ru на Selenide и API-тесты Travelpayouts и Restful-booker на REST Assured. Запуск в Jenkins на Selenoid, отчёты в Allure и Allure TestOps, уведомления в Telegram |
-| [MOBILEDEGREE](https://github.com/H1ghOctane/MOBILEDEGREE) | Мобильные тесты Android-приложения Wikipedia на Appium. Запуск на эмуляторе Android Studio и в BrowserStack |
+
+| [AVIASALESDEGREE](https://github.com/H1ghOctane/AVIASALESDEGREE) | UI-тесты aviasales.ru на Selenide и API-тесты Travelpayouts и Restful-booker на REST Assured. Запуск локально и в Jenkins на Selenoid, отчёты в Allure и Allure TestOps, задачи в Jira, уведомления в Telegram |
+| [MOBILEDEGREE](https://github.com/H1ghOctane/MOBILEDEGREE) | Мобильные тесты Android-приложения Wikipedia на Appium. Запуск на эмуляторе Android Studio и в BrowserStack, в Jenkins через BrowserStack, отчёты в Allure и Allure TestOps, задачи в Jira, уведомления в Telegram |
 
 #### Инструменты
 
