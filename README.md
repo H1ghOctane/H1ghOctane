@@ -28,4 +28,4 @@
 
 #### Контакты
 
-Telegram: [@твой_ник](https://t.me/твой_ник)
+Telegram: [@твой_ник](https://t.me/H1ghOctane)
